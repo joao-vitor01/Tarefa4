@@ -1,4 +1,4 @@
-# Tarefa4: Comunicação Serial e Controle de Periféricos no RP2040
+# Tarefa 4: Comunicação Serial e Controle de Periféricos no RP2040
 
 Este projeto tem como objetivo consolidar conceitos sobre interfaces de comunicação serial no  RP2040, utilizando a placa de desenvolvimento BitDogLab . A proposta envolve a manipulação de LEDs, botões, exibição de informações no display SSD1306  e comunicação via UART .
 
